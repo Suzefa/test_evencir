@@ -1,3 +1,10 @@
+<div align="center"> <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hamza%20Qureshi&text2=Flutter%20Developer💙&width=800&height=200" alt="Hamza Qureshi Signature"/> <br/>
+
+<b>Crafted with ❤️ using Flutter</b><br/>
+<i>"Turning ideas into interactive experiences."</i>
+
+</div>
+
 # test_evencir
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.24+-blue?logo=flutter)
@@ -60,20 +67,17 @@ You can directly install and test the app by downloading the latest APK:
 
 To run this project locally:
 
-#### bash
 # Clone the repository
+~~~ bash
 git clone https://github.com/Suzefa/test_evencir.git
-
+~~~
 
 # Get all dependencies
+~~~ bash
 flutter pub get
+~~~
 
 # Run the app
+~~~ bash
 flutter run
-
-<div align="center"> <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hamza%20Qureshi&text2=Flutter%20Developer💙&width=800&height=200" alt="Hamza Qureshi Signature"/> <br/>
-
-<b>Crafted with ❤️ using Flutter</b><br/>
-<i>"Turning ideas into interactive experiences."</i>
-
-</div>
+~~~

@@ -20,7 +20,7 @@ The is the test for EvenCIR
 ---
 
 ## 📁 Project Structure
-
+~~~ bash  
 lib/
 ├── models/              # Contains data models and JSON parsing logic
 ├── screen/              # All UI screens and widgets
@@ -29,7 +29,7 @@ lib/
 ├── route_management/    # Manages app routing and navigation
 ├── widgets/             # Custom reusable widgets used across the app
 └── main.dart            # Entry point of the application
-
+~~~
 ---
 
 ## 📱 App Screenshots

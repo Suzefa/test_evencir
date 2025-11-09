@@ -1,5 +1,9 @@
 # test_evencir
 
+![Flutter](https://img.shields.io/badge/Flutter-3.24+-blue?logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 The is the test for EvenCIR
 ---
 
@@ -18,14 +22,13 @@ The is the test for EvenCIR
 ## 📁 Project Structure
 
 lib/
-├── models/ # Contains data models and JSON parsing logic
-├── screen/ # All UI screens and widgets
-├── controllers/ # Handles business logic and state management
-├── utils/ # Helper functions and app-wide constants
-│ └── route_management/ # Manages app navigation and route definitions
-├── widgets/ # Custom reusable widgets used across the app
-└── main.dart # Entry point of the application
-
+├── models/              # Contains data models and JSON parsing logic
+├── screen/              # All UI screens and widgets
+├── controllers/         # Handles business logic and state management
+├── utils/               # Helper functions and app-wide constants
+├── route_management/    # Manages app routing and navigation
+├── widgets/             # Custom reusable widgets used across the app
+└── main.dart            # Entry point of the application
 
 ---
 
@@ -68,3 +71,9 @@ flutter pub get
 # Run the app
 flutter run
 
+<div align="center"> <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hamza%20Qureshi&text2=Flutter%20Developer💙&width=800&height=200" alt="Hamza Qureshi Signature"/> <br/>
+
+<b>Crafted with ❤️ using Flutter</b><br/>
+<i>"Turning ideas into interactive experiences."</i>
+
+</div>

@@ -1,0 +1,4 @@
+enum ItemTagEnum {
+  armsWorkout,
+  legWorkout
+}

@@ -1,0 +1,52 @@
+name: test_evencir
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  flutter_screenutil: ^5.9.3
+  flutter_svg: ^2.2.2
+  table_calendar: ^3.2.0
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/icons/
+
+  fonts:
+    - family: Mulish
+      fonts:
+        - asset: assets/fonts/Mulish-Black.ttf
+        - asset: assets/fonts/Mulish-BlackItalic.ttf
+        - asset: assets/fonts/Mulish-Bold.ttf
+        - asset: assets/fonts/Mulish-BoldItalic.ttf
+        - asset: assets/fonts/Mulish-ExtraBold.ttf
+        - asset: assets/fonts/Mulish-ExtraBoldItalic.ttf
+        - asset: assets/fonts/Mulish-ExtraLight.ttf
+        - asset: assets/fonts/Mulish-ExtraLightItalic.ttf
+        - asset: assets/fonts/Mulish-Italic.ttf
+        - asset: assets/fonts/Mulish-Italic-VariableFont_wght.ttf
+        - asset: assets/fonts/Mulish-Light.ttf
+        - asset: assets/fonts/Mulish-LightItalic.ttf
+        - asset: assets/fonts/Mulish-Medium.ttf
+        - asset: assets/fonts/Mulish-MediumItalic.ttf
+        - asset: assets/fonts/Mulish-Regular.ttf
+        - asset: assets/fonts/Mulish-SemiBold.ttf
+        - asset: assets/fonts/Mulish-SemiBoldItalic.ttf
+        - asset: assets/fonts/Mulish-VariableFont_wght.ttf
